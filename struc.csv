@@ -1,0 +1,12 @@
+﻿field name;description;measure;format
+room;Название комнаты;;string
+rus_name;Название товара на русском языке;;string
+swe_name;Название товара на шведском языке;;string
+color;Цвет товара;;string
+length;Длина товара;;numeric
+width;Ширина товара;;numeric
+height;Высота товара;;numeric
+article;Артикль;;numeric
+quantity;Количество товара, которое необходимо купить;;numeric
+total_price (rub;Цена набора товаров, получена путем перемножения количества товаров на цену одной единицы;;numeric
+source_link;Ссылка на товар в IKEA;;string
